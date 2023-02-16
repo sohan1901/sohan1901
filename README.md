@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 <!-- [![MsSQL](https://img.shields.io/badge/-MsSQL-black)](#) -->
-[![MySQL](https://img.shields.io/badge/MsSQL-00000F?style=for-the-badge&logo=mssql&logoColor=white)](#)
+<!-- [![MySQL](https://img.shields.io/badge/MsSQL-00000F?style=for-the-badge&logo=mssql&logoColor=white)](#) -->
 
 🤝 Connect with me:
 
