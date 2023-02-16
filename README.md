@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 🔢 Github Stats:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Simply-huMAN&layout=compact&theme=blue-green)](https://github.com/sohan1901)
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan1901&layout=compact&theme=blue-green)](https://github.com/sohan1901)
 
 
 
